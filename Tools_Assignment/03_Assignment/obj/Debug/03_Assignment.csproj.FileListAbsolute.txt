@@ -1,0 +1,11 @@
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\bin\Debug\03_Assignment.exe.config
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\bin\Debug\03_Assignment.exe
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\bin\Debug\03_Assignment.pdb
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\03_Assignment.csproj.AssemblyReference.cache
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\_03_Assignment.frm_Add_Image.resources
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\_03_Assignment.Properties.Resources.resources
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\03_Assignment.csproj.GenerateResource.cache
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\03_Assignment.csproj.CoreCompileInputs.cache
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\03_Assignment.exe
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\03_Assignment.pdb
+D:\C#.Net\Windows_Application\Tools_Assignment\03_Assignment\obj\Debug\_03_Assignment.frm_Show_Image.resources
