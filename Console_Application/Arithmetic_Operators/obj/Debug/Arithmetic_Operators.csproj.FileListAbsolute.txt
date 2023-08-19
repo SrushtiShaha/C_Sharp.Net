@@ -1,0 +1,7 @@
+D:\C#.Net\Console_Application\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.exe.config
+D:\C#.Net\Console_Application\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.exe
+D:\C#.Net\Console_Application\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.pdb
+D:\C#.Net\Console_Application\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.csproj.AssemblyReference.cache
+D:\C#.Net\Console_Application\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.csproj.CoreCompileInputs.cache
+D:\C#.Net\Console_Application\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.exe
+D:\C#.Net\Console_Application\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.pdb
