@@ -16,7 +16,7 @@ namespace Ayuraj_Computer_Shopee_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forms.Customer.frm_Add_Customer_Details());
+            Application.Run(new Forms.Distributer.frm_Add_Distributer_Details());
         }
     }
 }

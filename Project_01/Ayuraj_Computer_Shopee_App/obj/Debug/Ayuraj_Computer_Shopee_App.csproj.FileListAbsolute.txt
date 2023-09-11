@@ -23,3 +23,5 @@ D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_Ap
 D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Employee.frm_Add_Employee.resources
 D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Stock.frm_Add_Stock.resources
 D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Stock.frm_View_Stock_Details.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Master_Page.frm_Master_Page.resources
+D:\C#.Net\Project\Ayuraj_Computer_Shopee_App\obj\Debug\Ayuraj_Computer_Shopee_App.Forms.Login_Page.frm_Login.resources

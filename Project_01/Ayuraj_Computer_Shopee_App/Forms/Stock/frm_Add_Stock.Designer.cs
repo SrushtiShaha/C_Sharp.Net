@@ -37,7 +37,6 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
             this.lbl_Product_Name = new System.Windows.Forms.Label();
             this.tb_Remaining_Stock_Quantity = new System.Windows.Forms.TextBox();
             this.lbl_Import_Date = new System.Windows.Forms.Label();
-            this.tb_Product_Name = new System.Windows.Forms.TextBox();
             this.lbl_Remaining_Stock_Quantity = new System.Windows.Forms.Label();
             this.tb_New_Stock_Quantity = new System.Windows.Forms.TextBox();
             this.tb_Product_Id = new System.Windows.Forms.TextBox();
@@ -50,6 +49,7 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
             this.btn_Reset = new System.Windows.Forms.Button();
             this.btn_Save = new System.Windows.Forms.Button();
             this.pnl_Navigation_Bar = new System.Windows.Forms.Panel();
+            this.cmb_Product_Name = new System.Windows.Forms.ComboBox();
             this.gb_Stock_Details.SuspendLayout();
             this.pnl_Navigation_Bar.SuspendLayout();
             this.SuspendLayout();
@@ -69,13 +69,13 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
             // gb_Stock_Details
             // 
             this.gb_Stock_Details.BackColor = System.Drawing.Color.Honeydew;
+            this.gb_Stock_Details.Controls.Add(this.cmb_Product_Name);
             this.gb_Stock_Details.Controls.Add(this.dtp_Import_Date);
             this.gb_Stock_Details.Controls.Add(this.cmb_Subcategory_Name);
             this.gb_Stock_Details.Controls.Add(this.cmb_Category_Name);
             this.gb_Stock_Details.Controls.Add(this.lbl_Product_Name);
             this.gb_Stock_Details.Controls.Add(this.tb_Remaining_Stock_Quantity);
             this.gb_Stock_Details.Controls.Add(this.lbl_Import_Date);
-            this.gb_Stock_Details.Controls.Add(this.tb_Product_Name);
             this.gb_Stock_Details.Controls.Add(this.lbl_Remaining_Stock_Quantity);
             this.gb_Stock_Details.Controls.Add(this.tb_New_Stock_Quantity);
             this.gb_Stock_Details.Controls.Add(this.tb_Product_Id);
@@ -147,14 +147,6 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
             this.lbl_Import_Date.Size = new System.Drawing.Size(125, 27);
             this.lbl_Import_Date.TabIndex = 34;
             this.lbl_Import_Date.Text = "Import Date";
-            // 
-            // tb_Product_Name
-            // 
-            this.tb_Product_Name.Font = new System.Drawing.Font("Palatino Linotype", 10.2F, System.Drawing.FontStyle.Bold);
-            this.tb_Product_Name.Location = new System.Drawing.Point(428, 240);
-            this.tb_Product_Name.Name = "tb_Product_Name";
-            this.tb_Product_Name.Size = new System.Drawing.Size(257, 30);
-            this.tb_Product_Name.TabIndex = 4;
             // 
             // lbl_Remaining_Stock_Quantity
             // 
@@ -286,6 +278,15 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
             this.pnl_Navigation_Bar.Size = new System.Drawing.Size(1182, 70);
             this.pnl_Navigation_Bar.TabIndex = 20;
             // 
+            // cmb_Product_Name
+            // 
+            this.cmb_Product_Name.Font = new System.Drawing.Font("Palatino Linotype", 10.2F, System.Drawing.FontStyle.Bold);
+            this.cmb_Product_Name.FormattingEnabled = true;
+            this.cmb_Product_Name.Location = new System.Drawing.Point(428, 239);
+            this.cmb_Product_Name.Name = "cmb_Product_Name";
+            this.cmb_Product_Name.Size = new System.Drawing.Size(257, 31);
+            this.cmb_Product_Name.TabIndex = 38;
+            // 
             // frm_Add_Stock
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -319,7 +320,6 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
         private System.Windows.Forms.Label lbl_Product_Name;
         private System.Windows.Forms.TextBox tb_Remaining_Stock_Quantity;
         private System.Windows.Forms.Label lbl_Import_Date;
-        private System.Windows.Forms.TextBox tb_Product_Name;
         private System.Windows.Forms.Label lbl_Remaining_Stock_Quantity;
         private System.Windows.Forms.TextBox tb_New_Stock_Quantity;
         private System.Windows.Forms.TextBox tb_Product_Id;
@@ -332,5 +332,6 @@ namespace Ayuraj_Computer_Shopee_App.Forms.Stock
         private System.Windows.Forms.Button btn_Reset;
         private System.Windows.Forms.Button btn_Save;
         private System.Windows.Forms.Panel pnl_Navigation_Bar;
+        private System.Windows.Forms.ComboBox cmb_Product_Name;
     }
 }

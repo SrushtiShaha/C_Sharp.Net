@@ -100,6 +100,18 @@
     <Compile Include="Forms\Employee\frm_View_Emp_Details.Designer.cs">
       <DependentUpon>frm_View_Emp_Details.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Login_Page\frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login_Page\frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Master_Page\frm_Master_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Master_Page\frm_Master_Page.Designer.cs">
+      <DependentUpon>frm_Master_Page.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Product\frm_Add_Category.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -170,6 +182,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Employee\frm_View_Emp_Details.resx">
       <DependentUpon>frm_View_Emp_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login_Page\frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Master_Page\frm_Master_Page.resx">
+      <DependentUpon>frm_Master_Page.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Product\frm_Add_Category.resx">
       <DependentUpon>frm_Add_Category.cs</DependentUpon>
